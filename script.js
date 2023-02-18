@@ -14,7 +14,7 @@ function add() {
     return
   }
 
-  alert("Vamos bater recorde hoje? 🎊")
+  alert("O que o hoje nos aguarda? 🎊")
   nlwSetup.addDay(today)
 }
 
@@ -25,9 +25,9 @@ function save() {
 //const data = {
 // run: ["01-01", "01-02", "01-06", "01-07", "01-08"],
 // takePills: ["01-03"],
-// journal: ["01-02"],
-// Kilometros: ["01-03"],
-// Kilometros.: ["01-04"],
+// bike: ["01-02"],
+// book: ["01-03"],
+// sleep.: ["01-04"],
 //}
 
 const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {}

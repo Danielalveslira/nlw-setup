@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos de corrida.
+O Habits é um app para ajudar a rastrear os hábitos.
 
 - [Visite o projeto online](https://danielalveslira.github.io/nlw-setup)
 
